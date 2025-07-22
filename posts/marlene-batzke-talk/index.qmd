@@ -3,7 +3,6 @@ title: "Marlene Batzke's Talk on Agent-Based Modeling"
 author: "Amelia Zein"
 date: "2025-07-22"
 categories: [learning]
-image: ""
 ---
 
 # My notes from the talk
@@ -19,4 +18,6 @@ image: ""
 9.  In specifying the parameters we do and do not want to be super sure/specific about the accuracy or these parameters -- most importantly that we need to be sure that these assumptions can be tested. In this sense, we believe that the parameters we test theoretically vary in the population.
 10. What defines a good model is actually **consistency** of the pattern that we'd like to predict. Don't expect we have clean indicators/indices to evaluate the models -- as in statistical models. Even statistical models we use regularly to test hypotheses are "true" under a ton of assumptions that we unconsciously ignore.
 
-Example that she gave in the belief polarization project she is working on... Coherence -- is defined as a fit with other beliefs depending on the belief system Belief system -- is defined as correlation matrices of beliefs but needs to be subjective. To account for subjectivity, she used correlation class analysis (CCA)
+Example that she gave in the belief polarization project she is working on... 
+- Coherence -- is defined as a fit with other beliefs depending on the belief system 
+- Belief system -- is defined as correlation matrices of beliefs but needs to be subjective. To account for subjectivity, she used correlation class analysis (CCA)

@@ -10,7 +10,7 @@
 <atom:link href="https://rameliaz.github.io/labnotes-emb/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.14</generator>
-<lastBuildDate>Tue, 22 Jul 2025 12:08:52 GMT</lastBuildDate>
+<lastBuildDate>Tue, 22 Jul 2025 12:12:54 GMT</lastBuildDate>
 <item>
   <title>Development of Ideas</title>
   <dc:creator>Amelia Zein</dc:creator>
@@ -33,8 +33,7 @@
   <category>ideas</category>
   <category>journal</category>
   <guid>https://rameliaz.github.io/labnotes-emb/posts/development-of-ideas/</guid>
-  <pubDate>Tue, 22 Jul 2025 12:08:52 GMT</pubDate>
-  <media:content url="https://rameliaz.github.io/labnotes-emb/posts/development-of-ideas" medium="image"/>
+  <pubDate>Tue, 22 Jul 2025 12:12:54 GMT</pubDate>
 </item>
 <item>
   <title>Marlene Batzke’s Talk on Agent-Based Modeling</title>
@@ -60,7 +59,7 @@
 <li>In specifying the parameters we do and do not want to be super sure/specific about the accuracy or these parameters – most importantly that we need to be sure that these assumptions can be tested. In this sense, we believe that the parameters we test theoretically vary in the population.</li>
 <li>What defines a good model is actually <strong>consistency</strong> of the pattern that we’d like to predict. Don’t expect we have clean indicators/indices to evaluate the models – as in statistical models. Even statistical models we use regularly to test hypotheses are “true” under a ton of assumptions that we unconsciously ignore.</li>
 </ol>
-<p>Example that she gave in the belief polarization project she is working on… Coherence – is defined as a fit with other beliefs depending on the belief system Belief system – is defined as correlation matrices of beliefs but needs to be subjective. To account for subjectivity, she used correlation class analysis (CCA)</p>
+<p>Example that she gave in the belief polarization project she is working on… - Coherence – is defined as a fit with other beliefs depending on the belief system - Belief system – is defined as correlation matrices of beliefs but needs to be subjective. To account for subjectivity, she used correlation class analysis (CCA)</p>
 
 
 </section>
@@ -69,7 +68,6 @@
   <category>learning</category>
   <guid>https://rameliaz.github.io/labnotes-emb/posts/marlene-batzke-talk/</guid>
   <pubDate>Mon, 21 Jul 2025 22:00:00 GMT</pubDate>
-  <media:content url="https://rameliaz.github.io/labnotes-emb/posts/marlene-batzke-talk" medium="image"/>
 </item>
 </channel>
 </rss>
