@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Lab Notes - Epistemic Moral Beliefs Project"
+  site-url: https://rameliaz.github.io/labnotes-emb/
   navbar:
     right:
       - about.qmd
