@@ -7,4 +7,7 @@ categories: [learning, ideas, journal]
 
 # Some random ideas that I have in mind at the moment those ideas were written
 
-**\[Entry - Tuesday, 22.07.2025\]** - After doing a theory building, start small by simulating one moral pair, i.e., "reason/rationality" vs. "competent authority" by assuming that the outcomes (absolutist vs relativist vs tolerant) emerge as a dynamic interaction between a teacher and students in a classroom setting. Parameters can be based on the wealth of evidence regarding the role of testimony in belief/knowledge acquisition. - I really need to build arguments that *truth-seeking process* which encapsulates the epistemic moral beliefs is a dyadic situation, where at least two agents interact with each others. Epistemic behaviors that are considered "moral" can be: 1) the individual's moral framework; 2) other agents' or appraisers' moral framework, or 3) the social context surrounding the actions/behaviors.
+**[Entry - Tuesday, 22.07.2025]** 
+
+- After doing a theory building, start small by simulating one moral pair, i.e., "reason/rationality" vs. "competent authority" by assuming that the outcomes (absolutist vs relativist vs tolerant) emerge as a dynamic interaction between a teacher and students in a classroom setting. Parameters can be based on the wealth of evidence regarding the role of testimony in belief/knowledge acquisition. 
+- I really need to build arguments that *truth-seeking process* which encapsulates the epistemic moral beliefs is a dyadic situation, where at least two agents interact with each others. Epistemic behaviors that are considered "moral" can be: 1) the individual's moral framework; 2) other agents' or appraisers' moral framework, or 3) the social context surrounding the actions/behaviors.
