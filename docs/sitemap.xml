@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rameliaz.github.io/labnotes-emb/posts/welcome/index.html</loc>
-    <lastmod>2025-07-21T08:41:24.113Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rameliaz.github.io/labnotes-emb/posts/learning/index.html</loc>
-    <lastmod>2025-07-22T09:58:13.219Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rameliaz.github.io/labnotes-emb/about.html</loc>
-    <lastmod>2025-07-21T11:01:55.084Z</lastmod>
+    <loc>https://rameliaz.github.io/labnotes-emb/posts/marlene-batzke-talk/index.html</loc>
+    <lastmod>2025-07-22T10:33:54.401Z</lastmod>
   </url>
   <url>
     <loc>https://rameliaz.github.io/labnotes-emb/index.html</loc>
     <lastmod>2025-07-21T08:53:59.667Z</lastmod>
   </url>
   <url>
-    <loc>https://rameliaz.github.io/labnotes-emb/posts/post-with-code/index.html</loc>
-    <lastmod>2025-07-21T08:41:24.123Z</lastmod>
+    <loc>https://rameliaz.github.io/labnotes-emb/about.html</loc>
+    <lastmod>2025-07-22T10:35:17.474Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rameliaz.github.io/labnotes-emb/posts/development-of-ideas/index.html</loc>
+    <lastmod>2025-07-22T12:08:52.928Z</lastmod>
   </url>
 </urlset>

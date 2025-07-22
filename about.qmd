@@ -4,12 +4,9 @@ image: profile.jpg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
     - icon: github
       text: Github
       href: https://github.com/rameliaz/labnotes-emb
 ---
 
-About this blog
+This blog documents all efforts made to shape a novel theoretical framework, namely "Epistemic Moral Beliefs".
